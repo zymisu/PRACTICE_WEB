@@ -1,0 +1,47 @@
+body {
+    background: #e5e5e5;
+    margin: 0;
+}
+
+.header {
+    height: 100px;
+    background: #8aa1c4;
+    margin: 0px;
+}
+
+.footer {
+    height: 60px;
+    background: #1f6fa5;
+    margin: 0px;
+}
+
+.tile-row {
+    margin-left: -10px;
+    margin-right:-10px;
+}
+
+.tile-row > div {
+    padding: 10px;
+}
+
+.tile {
+    height: 120px;
+}
+
+.c1 { background: #b7f34a; }
+.c2 { background: #4aaed8; }
+.c3 { background: #839bc1; }
+.c4 { background: #6f3aa6; }
+.c5 { background: #2e86b6; }
+
+.c6 { background: #0ea64b; }
+.c7 { background: #839bc1; }
+.c8 { background: #d50000; }
+.c9 { background: #ffbf00; }
+.c10 { background: #9acd32; }
+
+.c11 { background: #f2c66d; }
+.c12 { background: #888; }
+.c13 { background: #0b4f6c; }
+.c14 { background: #76b5c5; }
+.c15 { background: #2f6f7e; }
